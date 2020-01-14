@@ -1,9 +1,10 @@
 ---
-layout: archive
-premalink: /posts/
-titles: "Posts by Tags"
+layout: posts
+permalink: /data-posts/
+title: "Posts"
 author_profile: true
 header:
-    images: "/images/header.jpg"
+  image: "/images/header.jpg"
 ---
- 
+
+
