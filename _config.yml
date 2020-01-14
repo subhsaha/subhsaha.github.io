@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Subha Saha"
+title                    : "subsaha.github.io"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Subha Saha"
@@ -109,9 +109,11 @@ analytics:
 author:
   name             : "Subha Saha"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Work Repository."
+  bio              : ""
   location         : "Hyderabad,IN"
   email            : "subhasaha@outlook.com"
+  github           : "subhsaha"
+  linkedin         : "Subha Saha" #subhasaha92
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -128,9 +130,10 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      # url: "https://www.linkedin.com/in/"
+      
 
 # Site Footer
 footer:
